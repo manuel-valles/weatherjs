@@ -1,6 +1,7 @@
 # Weather JS
-A Moder JavaScript App using the API Weather Underground
+A Modern JavaScript App using the API Weather Underground
 
 ## Tools
-Bootstrap [Bootswatch Theme]
-Weather Underground API
+* Bootstrap [Bootswatch Theme]
+
+* Weather Underground API
